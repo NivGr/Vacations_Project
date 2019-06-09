@@ -1,0 +1,37 @@
+{
+  "name": "vacation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server_app.js",
+  "scripts": {
+ 
+   "test": "echo \"Error: no test specified\" && exit 1"
+  ,
+ "client-install": "npm install --prefix client",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.4",
+    "express-session": "^1.16.1",
+    "lodash": "^4.17.11",
+    "mysql2": "^1.6.5",
+    "passport": "^0.4.0",
+    "path": "^0.12.7"
+  }
+
+,"engines" : {  "node": "10.15.1",
+    "npm": ">=6.0.0" } ,
+ "engineStrict" : true 
+}
+

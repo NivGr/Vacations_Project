@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe790f77.chunk.css",
+    "main.js": "/static/js/main.44a4ef4c.chunk.js",
+    "main.js.map": "/static/js/main.44a4ef4c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.a799cc24.chunk.js": "/static/js/2.a799cc24.chunk.js",
+    "static/js/2.a799cc24.chunk.js.map": "/static/js/2.a799cc24.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.31552da56ff31fd987ba03a727cba855.js": "/precache-manifest.31552da56ff31fd987ba03a727cba855.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fe790f77.chunk.css.map": "/static/css/main.fe790f77.chunk.css.map",
+    "static/media/index.css": "/static/media/50LptO.e4f9d8fb.jpg",
+    "static/media/vacation-clipart-49626.png": "/static/media/vacation-clipart-49626.b9897c76.png"
+  }
+}
